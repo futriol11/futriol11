@@ -62,19 +62,6 @@
 - Архитектуре и оптимизации программ.
 - Разработке собственных игровых проектов.
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=futriol11&show_icons=true&theme=transparent&hide_border=true&title_color=ff8c32&icon_color=ff8c32&text_color=aaaaaa" width="49%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=futriol11&layout=compact&theme=transparent&hide_border=true&title_color=ff8c32&text_color=aaaaaa" width="49%">
-
-</div>
-
----
-
-<div align="center">
 
 ### BUILD • CREATE • IMPROVE
 
